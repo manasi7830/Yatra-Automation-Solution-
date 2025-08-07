@@ -1,4 +1,4 @@
-<h1>Yata Calendar Automation Solution </h1>
+<h1>Yatra Calendar Automation Solution </h1>
 
 This project automates the process of opening a Yatra fare calendar, scanning available dates in the current and next month, and identifying:
 The lowest fare date in the current month
